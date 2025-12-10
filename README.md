@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=36&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+I'm+Minh+Quach+%F0%9F%91%8B;AI+%26+Data+Science+Master's+Student)](#)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=36&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+I'm+Minh+Quach.;Welcome+to+my+dev+corner)](#)
 
 ## Sections
 - [Overview](#overview)
