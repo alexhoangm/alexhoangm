@@ -118,8 +118,8 @@ A small selection of academic and practical projects. More available in my GitHu
 
 ## Connect with Me
 
-- 📍 Cottbus, Germany  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 📧 Email: your@email.com  
-
+<ul>
+  <li><a href="https://www.linkedin.com/in/qhm/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li><a href="mailto:minhquachire@gmail.com">Email</a></li>
+</ul> 
 ---
